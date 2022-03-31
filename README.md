@@ -1,3 +1,3 @@
 # Proyecto_Github
-Curso programación
-Nombre Completo: Daniela Martínez Madrid
+## Curso de programación-Cinvestav
+*Nombre de la estudiante: Daniela Martínez Madrid*
